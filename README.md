@@ -10,7 +10,7 @@
 ---
 
 ### 🧙‍♂️ About Me
-Hi there! I'm **Navira Arr**, a curious developer exploring the fusion of **magic and technology** ✨  
+Hi there! I'm **nap**, a curious developer exploring the fusion of **magic and technology** ✨  
 I love crafting code that feels like casting spells — logical yet full of wonder.
 
 - 🪄 Turning ideas into digital enchantments  
