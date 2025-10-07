@@ -1,9 +1,5 @@
 <!-- ✨ Harry Potter x Tech Theme ✨ -->
 
-<p align="center">
-  <img src="https://i.imgur.com/0bXj2MZ.png" width="600" alt="Welcome to naviraarr's Magical Tech Realm"/>
-</p>
-
 <h1 align="center">⚡ Welcome to naviraarr's Wizarding GitHub ⚡</h1>
 
 <p align="center">
